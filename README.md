@@ -15,7 +15,11 @@ Applying marketing strategy effectively for increasing revenue
 Use clustering methodology to segment customers into group based on loyalty
 
 ## Action
-We aim to segement the Customers based on RFM so that the company can target its customers efficiently.
+Segment the Customers based on RFM so that the company can target its customers efficiently.
 
 ## Value
 success marketing strategy for revenue increasing
+
+## Algorithm
+K-means 
+
